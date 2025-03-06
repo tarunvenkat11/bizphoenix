@@ -1,0 +1,51 @@
+# Technical help | CA.gov
+Source: https://www.ca.gov/support/technical-help/
+
+## Key Headings
+
+- Technical help
+- Browser version
+- Web traffic
+- Your Internet Service Provider (ISP)
+- Your modem
+- Memory
+- Report a problem with this site
+
+## Content
+
+If you are experiencing problems with the CA.gov website, please check
+        the following list:
+
+Update your internet browser to one of the two most recent versions of
+        these web browsers:
+
+The CA.gov website may be experiencing a lot of traffic. We recommend
+        waiting for complete pages to download before you try clicking any of
+        the links.
+
+Your ISP may be experiencing a problem. Try to see if you encounter the
+        same problem with another site (see Web Traffic above).
+
+Your modem may be too slow to download our web pages, causing the page
+        to timeout before it is completely loaded. You might want to think about
+        upgrading it. It could be causing you problems accessing the web in
+        general.
+
+Though our web pages arenât overly large, some do include graphical
+        elements. It is possible your computer does not have enough memory. In
+        that case, you may want to consider additional memory.
+
+If you find an error on this site, please contact us at
+        info.eservices@state.ca.gov. For issues with EDD.ca.gov,
+        DMV.ca.gov, etc. please contact
+        the specific department.
+
+## List Items
+
+- Home
+- Technical help
+- Microsoft Edge (part of Windows 10)
+- Mozilla Firefox
+- Google Chrome
+- Apple Safari
+
